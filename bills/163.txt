@@ -1,0 +1,20 @@
+	LA BENNETT PIZZA,GREATER NOIDA
+
+BILL NO: 163
+CUSTOMER NAME: pandey
+PHONE NUMBER: 100
+===========================================
+ ITEMS		   QTY		   PRICE
+===========================================
+ PEPPERONI		    1		   Rs.80
+ GARLIC BREAD		    1		   Rs.10
+ CHICKEN WINGS		    1		   Rs.40
+ BROWNIE		    1		   Rs.20
+ BANTA		    1		   Rs.20
+-------------------------------------------
+PIZZAS TAX				  Rs. 14.4
+SIDES TAX				  Rs. 9.0
+DESSERTS TAX				  Rs. 3.6
+BEVERAGES TAX				  Rs. 3.6
+TOTAL AMOUNT				  Rs.200.6
+-------------------------------------------

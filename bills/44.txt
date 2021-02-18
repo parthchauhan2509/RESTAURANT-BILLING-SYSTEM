@@ -1,0 +1,13 @@
+	LA BENNETT PIZZA,GREATER NOIDA
+
+BILL NO: 44
+CUSTOMER NAME: spd
+PHONE NUMBER: 13902
+===========================================
+ ITEMS		   QTY		   PRICE
+===========================================
+ FARMHOUSE		    1		   Rs.50
+-------------------------------------------
+PIZZAS TAX				  Rs. 9.0
+TOTAL AMOUNT				  Rs.59.0
+-------------------------------------------

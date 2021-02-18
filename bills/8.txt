@@ -1,0 +1,13 @@
+	LA BENNETT PIZZA,GREATER NOIDA
+
+BILL NO: 8
+CUSTOMER NAME: parth
+PHONE NUMBER: 999
+===========================================
+ ITEMS		   QTY		   PRICE
+===========================================
+ PEPPERONI		    1		   Rs.80
+-------------------------------------------
+PIZZAS TAX				  Rs. 14.4
+TOTAL AMOUNT				  Rs.94.4
+-------------------------------------------

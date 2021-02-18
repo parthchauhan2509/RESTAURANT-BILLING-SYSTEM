@@ -1,0 +1,17 @@
+	LA BENNETT PIZZA,GREATER NOIDA
+
+BILL NO: 148
+CUSTOMER NAME: panda
+PHONE NUMBER: 1370
+===========================================
+ ITEMS		   QTY		   PRICE
+===========================================
+ FARMHOUSE		    1		   Rs.50
+ GARLIC BREAD		    2		   Rs.20
+ BANTA		    2		   Rs.40
+-------------------------------------------
+PIZZAS TAX				  Rs. 9.0
+SIDES TAX				  Rs. 3.6
+BEVERAGES TAX				  Rs. 7.2
+TOTAL AMOUNT				  Rs.129.8
+-------------------------------------------
